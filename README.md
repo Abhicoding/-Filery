@@ -1,2 +1,2 @@
-# -Filery
+# Filery
 A bundler like webpack
