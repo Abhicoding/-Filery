@@ -18,6 +18,8 @@
   "homepage": "https://github.com/Abhicoding/Filery#readme",
   "dependencies": {},
   "devDependencies": {
-    "@babel/parser": "^7.0.0"
+    "@babel/core": "^7.0.0",
+    "@babel/parser": "^7.0.0",
+    "@babel/traverse": "^7.0.0"
   }
 }
