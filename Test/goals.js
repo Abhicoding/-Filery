@@ -1,0 +1,1 @@
+export default {goals : 567}
