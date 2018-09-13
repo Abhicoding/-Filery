@@ -1,4 +1,4 @@
-const name = require('./name')
+const name = require('./name.js')
 import team from './team.js'
 import goals from './goals.js'
 

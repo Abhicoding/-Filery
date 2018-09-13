@@ -1,1 +1,2 @@
-export default {team : 'FC Barcelona'}
+var team = {team : 'FC Barcelona'}
+export default team
